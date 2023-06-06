@@ -13,5 +13,5 @@ chmod +x ./update.sh ./nginx.sh ./mysql.sh ./php.sh
 ./mysql.sh
 ./php.sh
 
-
+reboot now 
 echo "LAMP webserver is up and running......"
