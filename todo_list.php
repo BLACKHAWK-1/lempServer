@@ -1,6 +1,6 @@
 <?php
 $user = "root";
-$password = '$Core3quad$';
+$password = "PassWord.1";
 $database = "example_database";
 $table = "todo_list";
 
@@ -14,4 +14,4 @@ try {
 } catch (PDOException $e) {
     print "Error!: " . $e->getMessage() . "<br/>";
     die();
-}
+}   
